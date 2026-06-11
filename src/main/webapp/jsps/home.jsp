@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> HELLO WELCOME TO KK FUNDA DEVOPS DEVSECOPS AWS SRE cloud </h1> 
+     <h1> HELLO WELCOME TO KK FUNDA DEVOPS DEVSECOPS AWS SRE cloud azure </h1> 
     <h3>Training | Development | Consulting | KKDEVOPS</h3>
 </header>
 
